@@ -1,0 +1,3 @@
+put /1766669257129.jpg in img Component 
+
+請將您上傳的四支影片放到 public 資料夾中，並依序命名為 video1.mp4、video2.mp4、video3.mp4 與 video4.mp4。
